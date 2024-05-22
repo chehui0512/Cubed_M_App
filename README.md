@@ -25,3 +25,7 @@
 5. 運動計畫：當使用者擬定的運動計畫沒落實執行，系統將會發送通知提醒。
 
 「Motivate with More Motion」激勵更多的運動就是「Cubed M」
+
+## 「Cubed M」其他程式
+後端：https://github.com/numbone112/Cubed-M-Back
+微控板：https://github.com/numbone112/Cubed-M-XIAO
