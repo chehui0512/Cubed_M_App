@@ -27,5 +27,5 @@
 「Motivate with More Motion」激勵更多的運動就是「Cubed M」
 
 ## 「Cubed M」其他程式
-後端：https://github.com/numbone112/Cubed-M-Back
-微控板：https://github.com/numbone112/Cubed-M-XIAO
+- 後端：https://github.com/numbone112/Cubed-M-Back
+- 微控板：https://github.com/numbone112/Cubed-M-XIAO
