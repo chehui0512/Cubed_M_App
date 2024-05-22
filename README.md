@@ -1,6 +1,6 @@
 # Cubed_M
 
-## 團隊成員
+## 團隊成員分配
 臺北商業大學 資訊管理系
 - 林哲卉：前端開發、UI/UX設計
 - 羅毓翔：前、後端、硬體程式開發
@@ -15,23 +15,13 @@
 - Python：後端採用Python，通過感測器收集大量運動數據後，使用Python有利於後續分析
 - MongoDB：非關聯式架構NoSQL，由於大部分的資料都是運動的六軸角度、次數資料，資料間彼此關係不複雜，因此選擇開發效率快、可靈活儲存資料的MongoDB
 
-This project is a starting point for a Flutter application.
+## 系統簡介
+「Cubed M」是一款智能運動輔助系統，旨在為使用者提供全面的運動管理，幫助實現健康、成功老化的目標。系統結合穿戴式裝置，透過角度換算，計算運動動作次數並提供可視化個人分析報表，希望透過「Cubed M」能輔助使用者建立健康習慣、定期運動，以保持良好身體機能。
+系統功能
+1. 使用者管理：使用者管理個人資料，查看運動分析。
+2. 運動紀錄：紀錄每次運動六軸原始資料，並可供檢視歷史運動。
+3. Mo 伴：使用者可搜尋曾經一同運動的朋友,或將他們從好友列表中隱藏。
+4. 邀約運動：發起運動邀約，好友們回覆後，即可一同運動。
+5. 運動計畫：當使用者擬定的運動計畫沒落實執行，系統將會發送通知提醒。
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-flutter pub run build_runner build
-
-@JsonSerializable(explicitToJson: true)
-class {} {
-  [](
-      {});
-  
-  factory {}.fromJson(Map<String, dynamic> json) => _${}FromJson(json);
-  Map<String, dynamic> toJson() => _${}ToJson(this);
-}
+「Motivate with More Motion」激勵更多的運動就是「Cubed M」
